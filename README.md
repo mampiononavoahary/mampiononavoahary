@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @mampiononavoahary
+👋 Hi, I’m @mampiononavoahary
 
-- https://www.codewars.com/users/zoarisoa/badges/large
+![Codewars Badge](https://www.codewars.com/users/zoarisoa/badges/large)
+
 
 <!---
 mampiononavoahary/mampiononavoahary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
